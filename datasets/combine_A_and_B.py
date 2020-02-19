@@ -1,4 +1,5 @@
 import os
+os.system('apt install libglib2.0-0')
 os.system('pip install opencv-python')
 import numpy as np
 import cv2
