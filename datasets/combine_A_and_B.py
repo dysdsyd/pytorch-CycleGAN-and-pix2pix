@@ -1,5 +1,5 @@
 import os
-os.system('pip install cv2')
+os.system('pip install opencv-python')
 import numpy as np
 import cv2
 import argparse
