@@ -1,4 +1,5 @@
 import os
+os.system('pip install -y cv2')
 import numpy as np
 import cv2
 import argparse
