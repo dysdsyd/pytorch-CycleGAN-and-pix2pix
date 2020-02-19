@@ -1,5 +1,5 @@
 import os
-os.system('conda install -y -c conda-forge opencv')
+os.system('pip install opencv-python')
 import numpy as np
 import cv2
 import argparse
